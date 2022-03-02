@@ -30,7 +30,7 @@ const Topbar = ({ fetchFailedStatus }) => {
               className="github_repo_link"
               onClick={() =>
                 window.open(
-                  "https://github.com/",
+                  "https://github.com/ivan-hill/covid-19-tracker",
                   "_blank"
                 )
               }
